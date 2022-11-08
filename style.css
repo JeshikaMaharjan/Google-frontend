@@ -1,0 +1,111 @@
+body
+{
+    margin : 0; 
+    padding :25px; 
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;    
+    background : cover;
+
+}
+
+.links
+{    
+    margin : auto;
+    margin-bottom:20px;
+    padding :25px; 
+    text-align: right;
+}
+.link1,.link2
+{
+    font-size: 14px;
+    color : blue;
+    text-decoration: none;
+    margin-right : 20px;
+}
+
+.content
+{
+    margin : auto; 
+    padding: 56px 0px 20px 0px;        
+    text-align : center;
+    border : none;
+    width :100%;
+}
+.logo
+{
+    height:92px;
+    width:272px;
+    margin-bottom:20px;
+
+}
+
+.tinput
+{
+    margin:auto;
+    margin-bottom:20px;
+    padding : 1px 44px 1px 52px; 
+    height:44px;
+    width:561px;
+    border:1px black solid;
+    border-radius: 30px;
+
+}
+.buttons
+{
+    margin:auto;
+}
+
+.search,.lucky
+{
+    background-color: #f8f9fa;
+    border: 1px solid #f8f9fa;
+    border-radius: 4px;
+    color: #3c4043;
+    font-family: arial,sans-serif;
+    font-size: 14px;
+    margin: 11px 4px;
+    padding: 0 16px;
+    height: 36px;
+}
+
+.content1
+{
+   text-align: left; 
+}
+
+h1
+{
+    font-size:20px;
+    color: #d93025;
+
+}
+
+p
+{
+    font-size:16px;
+}
+
+.box
+{
+    margin:0px 0px 10px 5px;
+    padding:1px 8px;
+    height : 29px;
+    width: 320px;
+    font-size:13px;
+}
+
+.adv_button
+{
+   height:30px;
+   color:#f8f9fa;
+   background-color: #4d90fe; 
+   border:none;
+   text-align :right;
+   margin:10px 0px;
+   padding:0px 12px;
+}
+
+.button
+{
+    text-align:right;    
+    
+}
